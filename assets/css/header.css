@@ -1,0 +1,9 @@
+#header{
+    /* height: 100%; */
+    width: 100%;
+    background-image: url("../img/PlatosDeIslas_banner.jpg");
+    background-size: 100% 320px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
